@@ -1,7 +1,10 @@
 package ro.robert.Captcha;
 
 public class B{
-    int a;
-    int b=a;
-    a=5;
+
+
+    public void test()
+    {
+        System.out.print("Commit 1");
+    }
 }
