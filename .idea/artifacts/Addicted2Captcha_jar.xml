@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Addicted2Captcha:jar">
+    <output-path>$USER_HOME$/Desktop/AmongUs/plugins</output-path>
+    <root id="archive" name="Addicted2Captcha.jar">
+      <element id="module-output" name="ProjectA2" />
+    </root>
+  </artifact>
+</component>
