@@ -2,5 +2,6 @@ package ro.robert.Captcha;
 
 public class B{
     int a;
-    int b=3;
+    int b=a;
+    a=5;
 }
