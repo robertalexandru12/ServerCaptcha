@@ -31,6 +31,7 @@ public class Chat implements Listener {
                     e.getPlayer().sendMessage(Configuration.plugin.c(s).replace("%cod%",A.pString.get(e.getPlayer().getName())).replace("%player%",e.getPlayer().getName()));
                 }
                 e.setCancelled(true);
+
                 return;
 
             }
