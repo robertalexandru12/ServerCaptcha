@@ -1,0 +1,7 @@
+name: Addicted2Captcha
+main: ro.robert.Captcha.MainClass
+version: 1.0
+commands:
+  add2captcha:
+    description: Aceasta este comanda principala.
+    usage: /<command>
