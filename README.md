@@ -1,5 +1,5 @@
 # Addicted2Captcha
-This plugin was created to prevent possible bot spam on minecraft servers. The first time players enter the server, they will be put to a captcha test by writing a chat code to unlock it.
+This plugin was created to prevent possible bot spam on Minecraft servers. The first time a player joins the server, they will receive a captcha verification by writing a random generated code in order to unlock the chat.
 
 Commands:
 
